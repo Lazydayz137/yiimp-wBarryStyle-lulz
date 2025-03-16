@@ -2,6 +2,8 @@
 
 <h2 align="left"> Container-Environment </h3>
 
+** important notice: Barry is the man.  Just found this looking for any decently maintained pool stack.  Damn.  Holla at me my man. But Barry is a Gangsta, especially in the stratum-y area, amongst others. Word is Born. **
+
 ** important notice: intented for local usage. if you want it to be available on public network you have to add more security rules like firewalling **
 
 info: the Makefile in this repo only cointains some helper commands for easier handling
